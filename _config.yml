@@ -1,0 +1,7 @@
+theme: minima
+title: The Apprentice Project
+description: Work In Progress
+url: "https://theapprenticeproject.org"
+exclude:
+  - README.md
+
